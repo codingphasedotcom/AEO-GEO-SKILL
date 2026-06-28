@@ -1,0 +1,9 @@
+# Built skill bundle (create via release, not committed)
+*.skill
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
